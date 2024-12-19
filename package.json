@@ -13,9 +13,10 @@
     "@radix-ui/react-slider": "^1.2.2",
     "@radix-ui/react-switch": "^1.1.2",
     "lucide-react": "^0.468.0",
-    "next": "15.1.2",
+    "next": "^15.1.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "webpack": "^5.97.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -27,5 +28,16 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "Translator app for movie audio character in real time or record",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "movie-audio-translator"
+  },
+  "keywords": [
+    "translator"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT"
 }
